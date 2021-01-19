@@ -3,6 +3,5 @@ Resolusi
 -belajar back end
 -belajar html
 -belajar css
--dll
 -belajar c++
 -belajar phyton
