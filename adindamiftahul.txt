@@ -4,3 +4,5 @@ Resolusi
 -belajar html
 -belajar css
 -dll
+-belajar c++
+-belajar phyton
